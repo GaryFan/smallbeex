@@ -1,3 +1,33 @@
+The latest beta version isn't public and is only available to VIP customers.(内部测试版本在正式版未公布之前，仅仅对VIP用户和内测组开放)
+===============================================
+
+
+SmallBeeX 2.8.0_Final_0 Changelog
+===============================================
+
+2.8.0_Final_0 (29-Dec-2018)
+
+  - Fixed：Fix the first time the page loads slowly.
+  - Fixed：Fix Redirect to index page if not connected.
+  - Fixed：Fix some issues that the process can't start(RT-AC56U).
+  - Add：Support link aggregation / bonding and optimize performance.
+  - Add：Support NAT acceleration and optimize performance.
+  - Add：Support spanning-Tree Protocol and optimize performance.
+  - Add：Support jumbo frame and optimize performance.
+  - Add：Support iptv function and optimize performance.
+  - Add：Support single line multi-dial and optimize preformance.
+
+SHA256SUM：
+82887983c81bf827e7d10d3b983c689758538aab3b2744e92e8dd6467c30c3c1  RT-AC5300_smallbeex_2.8.0_Final_0.trx
+e0965a7bc2c748d2b07b7b1fbbeb571102663f2b8bece1d9f0658b0637d500ed  RT-AC3200_smallbeex_2.8.0_Final_0.trx
+0fdb47adf76277b4b56b27ebfb27e2c7b20c5549deee4656db59e484a047d2fd  RT-AC3100_smallbeex_2.8.0_Final_0.trx
+41f0332214f8ef59b6acdd97cb8ce8ac5b7cb3dd3c50b68666ea8a967696a93b  RT-AC56U_smallbeex_2.8.0_Final_6.trx
+21ebb3b942e9aeba521c3bd3c6066a88287b5bc02fe7b5cf3ae08f998a9ffe4c  RT-AC66U_smallbeex_2.8.0_Final_0.trx
+0a2ce5a972986cd360cfd52ebc637feb98e671b2b0911d70b21e3667ac8c446e  RT-AC68U_smallbeex_2.8.0_Final_0.trx
+868890f859be99ba9c63ace7c4dc4000b73965504f4c383ae642777d9853d9cf  RT-AC87U_smallbeex_2.8.0_Final_0.trx
+bd801ad6523eda718405d41deb91a3c7af803ecf5e9512b245f07d0792599f3d  RT-AC88U_smallbeex_2.8.0_Final_0.trx
+40ab9e17b5354d4c0123dce8cd0462c08f50dee6aa149bd1a35f1e88a7f6fe8a  RT-N66U_smallbeex_2.8.0_Final_0.trx
+
 
 SmallBeeX 2.4.0_Final_0 Changelog
 ===============================================
