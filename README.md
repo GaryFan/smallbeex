@@ -1,4 +1,4 @@
-The latest beta version isn't public and is only available to VIP customers.(内部测试版本在正式版未公布之前，仅仅对VIP用户和内测组开放)
+内部测试版本在正式版未公布之前，仅对VIP用户和内测组开放！
 ===============================================
 
 
