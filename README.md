@@ -1,14 +1,15 @@
+
 SmallBeeX 2.4.0_Final_0 Changelog
 ===============================================
 
 2.4.0_Final_0 (24-Dec-2018)
 
-  - 【新增】Guest Network功能的支持；
-  - 【修复】部分页面加载缓慢的问题；
-  - 【修复】修复部分机型在升级时有弹窗警示的问题；
-  - 【修复】修复部分进行错误导致一直占用CPU资源的问题；
-  - 【新增】增加WiFi弱信号检测机制，较弱信号将会被直接拒接连线；
-  - 【优化】优化部分资源的空间和内容占用，释放硬件资源；
+  - Add：Support Guest Network function.
+  - Fixed：Some pages are slow to load.
+  - Fixed：Fixed some problems with pop-up warning when upgrading.
+  - Fixed：Fix the problem that the error caused the CPU resources to be occupied all the time.
+  - Add：Increase WiFi weak signal detection mechanism, weaker signals will be directly rejected.
+  - OPTIMIZATION：Optimize the space and content usage of some resources and release hardware resources.
 
 
 SHA256SUM：
