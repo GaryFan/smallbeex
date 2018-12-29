@@ -1,6 +1,32 @@
 内部测试版在正式版未公布前，仅对VIP用户和内测组开放！
 ===============================================
 
+正式稳定版下载地址：
+
+GitHub（推荐）：https://github.com/GaryFan/smallbeex
+
+性能炸裂：
+https://smallbeex.com/gd.html
+
+https://nap6.com/thread-5389-1-1.html
+
+官方论坛：https://nap6.com
+
+smallbeex官网：https://smallbeex.com
+
+SmallBeeX全网最稳定的第三方路由器固件！！
+
+500万次PING 丢包率为0% ！100天长期在线不变慢！！
+
+每2周左右更新一次final版本，不定期更新Beta内部测试版本。
+
+支持型号：
+RT-AC66U / RT-AC66U_B1 (与RT-AC68U通用) / RT-AC56U / RT-AC68U & RT-AC68P & RT-AC68UF (including HW revision C1 and E1) / RT-AC1900 & RT-AC1900P (与RT-AC68U通用) / RT-AC87U / RT-AC3200 / RT-AC88U / RT-AC3100 / RT-AC5300 / RT-AC86U / RT-AC2900 (与RT-AC86U通用)
+
+科学上网插件需手动安装，系统不自带。
+
+手动安装教程：https://nap6.com/thread-482-1-1.html
+
 
 SmallBeeX 2.8.0_Final_0 Changelog
 ===============================================
