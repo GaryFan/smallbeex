@@ -1,31 +1,77 @@
 内部测试版在正式版未公布前，仅对VIP用户和内测组开放！
 ===============================================
 
-正式稳定版下载地址：
+## GitHub由于其他原因，暂不同步最新固件，后期再做同步，请移步到oneDrive，非常抱歉
 
-GitHub（推荐）：https://github.com/GaryFan/smallbeex
+快速获取最新版固件：关注公众号 smallbeex
 
-性能炸裂：
+正式稳定版和内测版本下载地址：
+
+oneDrive（推荐，下载速度快）：http://t.cn/EbSxFb4
+
+
+GitHub：https://github.com/GaryFan/smallbeex
+
+
+oneDrive(原始地址)：https://affensaft-my.sharepoint.cn/:f:/g/personal/smallbeex_swei_us/Egu9cSabAy9ChlQVC9E2HVUBof8Gf3wlKboLLEkahYzkwg?e=gGV6VF
+
+
+
+性能炸裂 生猛体现：
 https://smallbeex.com/gd.html
+
 
 https://nap6.com/thread-5389-1-1.html
 
+
 官方论坛：https://nap6.com
+
 
 smallbeex官网：https://smallbeex.com
 
-SmallBeeX全网最稳定的第三方路由器固件！！
 
 500万次PING 丢包率为0% ！100天长期在线不变慢！！
 
+
 每2周左右更新一次final版本，不定期更新Beta内部测试版本。
+
 
 支持型号：
 RT-AC66U / RT-AC66U_B1 (与RT-AC68U通用) / RT-AC56U / RT-AC68U & RT-AC68P & RT-AC68UF (including HW revision C1 and E1) / RT-AC1900 & RT-AC1900P (与RT-AC68U通用) / RT-AC87U / RT-AC3200 / RT-AC88U / RT-AC3100 / RT-AC5300 / RT-AC86U / RT-AC2900 (与RT-AC86U通用)
 
+
 科学上网插件需手动安装，系统不自带。
 
+
 手动安装教程：https://nap6.com/thread-482-1-1.html
+
+
+SmallBeeX 2.9.0_Final_0 Changelog
+===============================================
+
+2.9.0_Final_0 (6-Jan-2019)
+
+  - Optimization：Optimizing Traffice Monitoring.
+  - Fixed：Fixed some time failure to get IP address properly(RT-AC68U).
+  - optimizing：Optimizing Wifi Instability(RT-AC3100).
+  - Optimizing：Optimizing boots game configuration.
+  - Fixed：fixed jQuery issue for the GUI.
+  - Update：Updated trx Compressed package to make it smaller.
+  - Update：Other more.
+
+
+SHA256SUM：
+d8e22693b4e7e99a9f16e7ba0ceb3e3e6e08dafaf14a8451c389fe64ff6e94a5  RT-AC3100_smallbeex_2.9.0_Final_0.trx
+d686fc49f520dc6cc0a2fcb86aaf24a3457e47c91c57af3061a2c7e43bcec8f4  RT-AC3200_smallbeex_2.9.0_Final_0.trx
+768c5f53a0d8f7935d9642fbdf68deb03aca4e3e5848cccb84a80954eab18370  RT-AC5300_smallbeex_2.9.0_Final_0.trx
+d697ac57e0e71e45e0d67fc28c10d339278a4c291e5e65fda02b218736487c8b  RT-AC56U_smallbeex_2.9.0_Final_0.trx
+d1e96be80287d05187554e3b7e1d6804dcd6d45f7260b2a447a0228df70249ba  RT-AC66U_smallbeex_2.9.0_Final_0.trx
+83feccd9a7f7abe8b50220960ea68e9f2a5478dd0c097d69f1ed080935b4f90d  RT-AC68U_smallbeex_2.9.0_Final_0.trx
+9cde1f3ba0f1169a0f8fb70e98147fa5628fd274259de952556da1fbf313f288  RT-AC87U_smallbeex_2.9.0_Final_0.trx
+426b1877b8be52afa54f1e64f5b5474d6367d40c9aab31344b362042fb3b675d  RT-AC88U_smallbeex_2.9.0_Final_0.trx
+74c29ec02914c8a59a420580b7628e6904daf386a6bcd27c273bcb36868456ed  RT-N66U_smallbeex_2.9.0_Final_0.trx
+
+
 
 
 SmallBeeX 2.8.0_Final_0 Changelog
