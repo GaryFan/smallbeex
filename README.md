@@ -44,6 +44,26 @@ RT-AC66U / RT-AC66U_B1 (与RT-AC68U通用) / RT-AC56U / RT-AC68U & RT-AC68P & RT
 手动安装教程：https://nap6.com/thread-482-1-1.html
 
 
+SmallBeeX 2.9.4_Final_0 Changelog
+===============================================
+2.9.04_Final_0 (6-Jan-2019)
+
+  - Fixed：Fixed the problem that part of the IP could not be obtained.
+  - Fixed：Attempts to repair WiFi outage still need to be continued.
+  - Fixed：Fix other problems
+
+
+SHA256SUM: 
+afca295347bd1b13a067b0c93d0968b415fca28684a618be8c8db3802ae12fd2  RT-AC3100_smallbeex_2.9.4_final_0.trx
+1bc42fcf1f68c122de7cb9d41a86053a58729b1ca14a9c5573d1c344805433a8  RT-AC3200_smallbeex_2.9.4_final_0.trx
+92f55ed94568d9a8e2504107d2143cd01ae8eaaa37756b09287883ca03919792  RT-AC5300_smallbeex_2.9.4_final_0.trx
+7b7002482a6ccf8a64466227835c30b485ede0241d9ba2a9564a4be442b96d35  RT-AC56U_smallbeex_2.9.4_final_0.trx
+e12acbe679ee672075f53076e7530f10be28835ba83dac6560f8aafc2a0d28e2  RT-AC66U_smallbeex_2.9.4_final_0.trx
+d281e06b7ee0e3f3e6922f262f4866a133c95b7bb94ad8659336e2687571bcbe  RT-AC68U_smallbeex_2.9.4_final_0.trx
+39f8d56a503faca0801ad165bf12b51a06b27e2af5046046f5f80bae0607f1a0  RT-AC87U_smallbeex_2.9.4_final_0.trx
+a2f9c2973f280917e5739146a20cffcd6d2b1ba2ab033a26aa1951fda13a7f65  RT-AC88U_smallbeex_2.9.4_final_0.trx
+26c3e920b668c486d4003fcafd408fd5a722b66b1bb77dbec5fb0ab1bc06cd20  RT-N66U_smallbeex_2.9.4_final_0.trx
+
 SmallBeeX 2.9.0_Final_0 Changelog
 ===============================================
 
