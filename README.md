@@ -44,9 +44,58 @@ RT-AC66U / RT-AC66U_B1 (与RT-AC68U通用) / RT-AC56U / RT-AC68U & RT-AC68P & RT
 手动安装教程：https://nap6.com/thread-482-1-1.html
 
 
+smallbeex_2.9.8_final Changelog
+===============================================
+2.9.8_Final_0 (6-Jan-2019)
+
+  - Fixed：Fixed Repair stability.
+  - Fixed：Fix other problems
+
+sha256sum:
+68859061c1f86c6e82377ce2b46a14c9a67780c07200f5a7a8bf1bc67d4fba28  RT-AC3100_smallbeex_2.9.8_final_0.trx
+171a7b4ca2d355b30b654cb03f5662c7431b93d7e3d4dda93cff1bf4dbec5a84  RT-AC3200_smallbeex_2.9.8_final_0.trx
+eb9aaaf9f10a1ae20280b1d647500e14a1070fe3970e0e677beaf0312f7d8a47  RT-AC5300_smallbeex_2.9.8_final_0.trx
+e8e167870ca8e8f1e5a5c58e5bbbe51a808686776c570de884738ac1b49785ef  RT-AC88U_smallbeex_2.9.8_final_0.trx
+baacd7bcb120083351a5eab94b69d68bc521c9bc5c65de7b4c02b07954490084  RT-AC87U_smallbeex_2.9.8_final_0.trx
+a8de28bb98033074ea5ab9029b8f3e1e59fd346f2e88c15f5246c35b5463e65d  RT-AC68U_smallbeex_2.9.8_final_0.trx
+37afc97dfc39289f59df523776e501a68c3ffe20436385ab625e8294484cda62  RT-AC66U_smallbeex_2.9.8_final_0.trx
+1a45ff6540f9a5368166df543b5c989598d6efd4a4fb4aad8ca1aa6dff41cbce  RT-AC56U_smallbeex_2.9.8_final_0.trx
+eda7ce3837514fdcd06ad2317a744c4caf5ffbb77b671d93543aaec4aba710fc  RT-N66U_smallbeex_2.9.8_final_0.trx
+
+sha256sum smallbeex_2.9.6_beta
+===============================================
+2b5aaba2102bc5b6e095ea05ff7b62f5028f77f6ad570dcd7637f167a5800c38  RT-AC3100_smallbeex_2.9.6_beta_0.trx
+12507390c261b1b08196c53c79183cfc24e2b9caa5b4b08f38966f6f5ffb0d5b  RT-AC3200_smallbeex_2.9.6_beta_0.trx
+f7a542e0e123199d8fd29398f16833ee0d364e9459f408aca4f648c07bc313b0  RT-AC5300_smallbeex_2.9.6_beta_0.trx
+af822293ffa70a56ad9062aa005226519a7e566a38bd1a97e009a729d2fc47b6  RT-AC88U_smallbeex_2.9.6_beta_0.trx
+f9aec531e3b83fda5e8457d21e764355d4b08a715bafe4353a3b6d75ae837384  RT-AC87U_smallbeex_2.9.6_beta_0.trx
+a7f18aeb1cd5c7cd65716d97d99f0320f3412dee96a08c3f4ddb0b161f90209c  RT-AC68U_smallbeex_2.9.6_beta_0.trx
+cb657d1e382e56d286ae75515626ece67b0f8388cad3f8fec1b7e266beaac8ec  RT-AC66U_smallbeex_2.9.6_beta_0.trx
+ca132b84e0f6523131c24b8317e9ae41cf5c9238ff3bd3e64160ec8f16b5dc66  RT-AC56U_smallbeex_2.9.6_beta_0.trx
+24f5e5f81d2f7118145deb82e11394d5b5e6e52623ef37ee2c8630038c830b38  RT-N66U_smallbeex_2.9.6_beta_0.trx
+
+
+SmallBeeX 2.9.5_beta_0 Changelog
+===============================================
+sha256sum smallbeex_2.9.5_beta
+d440b63c0dd498735e935a4d1ace02b7ee009fa0cacfecbe0733e31de1f3b873  RT-AC3100_smallbeex_2.9.5_beta_0.trx
+a52170d637a8d3d260aa927f844da42d504e23055fc30dd2dd8468fdf76f0241  RT-AC3200_smallbeex_2.9.5_beta_0.trx
+1bc5a0087ca3b90d51b978986d04dda7f0b0043f3c3bd47f6e1f22758102feb8  RT-AC5300_smallbeex_2.9.5_beta_0.trx
+c0e3a290a3f97e49ead86769ada50b9254d081b59fe1dec956b3f1ae1e647b97  RT-AC88U_smallbeex_2.9.5_beta_0.trx
+3d87caea4cd3220c430e7a98221ff6f90d98af54af2556b709a24b7fb3dd28bc  RT-AC87U_smallbeex_2.9.5_beta_0.trx
+b65fea30e6fe965f4b8be95ddde041a65df2230d0ee6d28adb78438f670ba294  RT-AC68U_smallbeex_2.9.5_beta_0.trx
+783bd4b9e71ad96818499de6545a757ae396d60a1d4ffa5809d79badb1145415  RT-AC66U_smallbeex_2.9.5_beta_0.trx
+144bb88fd76bfe6c9d49b2c726e5934edd82bf8c3db5e162e803708e678e4d22  RT-AC56U_smallbeex_2.9.5_beta_0.trx
+14808d9a371088be10ac8dd1a966f1514d1605dc5f6b80d41d26788b0bfc04a7  RT-N66U_smallbeex_2.9.5_beta_0.trx
+
+
+
+
+
+
 SmallBeeX 2.9.4_Final_0 Changelog
 ===============================================
-2.9.04_Final_0 (6-Jan-2019)
+2.9.4_Final_0 (6-Jan-2019)
 
   - Fixed：Fixed the problem that part of the IP could not be obtained.
   - Fixed：Attempts to repair WiFi outage still need to be continued.
